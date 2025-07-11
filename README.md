@@ -16,3 +16,11 @@ Dashboard phân tích doanh thu năm 2022 so với kế hoạch năm 2022 ngành
 
 ## INSIGHT 2:
 - Doanh thu đến từ kênh WholeSale đạt doanh thu vượt ngưỡng kế hoạch gần 40%. Trong khi 2 kênh còn lại, đặc biệt là Export vẫn chưa đạt so với kỳ vọng giảm gần 50% so với kế hoạch.
+
+  
+<img width="1138" height="197" alt="Screenshot 2025-07-11 232232" src="https://github.com/user-attachments/assets/332aec30-8945-4612-bb80-b2d2461c1c6f" />
+
+
+## INSIGHT 3:
+- Miền Bắc và Nam Bộ có sản lượng bán và doanh thu đổ về cao nhất, đứng đầu các khu vực, mặc dù không đạt đúng kế hoạch đề ra nhưng so với doanh thu cùng kỳ năm trước vẫn thu về lãi Miền Bắc là 7.58% và Nam Bộ là 3.73%.
+- Các khu vực có doanh thu và sản lượng bán thấp rơi vào Duyên Hải Nam và Bắc Trung Bộ có thể do mật độ dân số ở các tỉnh Duyên Hải thấp kéo theo nhu cầu mua sắm không được sôi nổi như các thành phố lớn. Đặc biệt về Duyên Hải Bắc Trung Bộ lại có doanh thu cùng kỳ năm ngoái thấp hơn năm 2022 gần 10%.
